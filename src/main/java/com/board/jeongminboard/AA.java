@@ -1,7 +1,7 @@
 package com.board.jeongminboard;
 
-public class Test {
+public class AA {
     public static void main(String[] args) {
-        System.out.println("hello");
+        System.out.println("zzzzz");
     }
 }
