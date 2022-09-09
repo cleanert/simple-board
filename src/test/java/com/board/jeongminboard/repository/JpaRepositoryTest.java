@@ -1,7 +1,7 @@
 package com.board.jeongminboard.repository;
 
 import com.board.jeongminboard.web.config.JpaConfig;
-import com.board.jeongminboard.domain.repository.entity.Article;
+import com.board.jeongminboard.domain.entity.Article;
 import com.board.jeongminboard.domain.repository.ArticleCommentRepository;
 import com.board.jeongminboard.domain.repository.ArticleRepository;
 import org.junit.jupiter.api.DisplayName;
