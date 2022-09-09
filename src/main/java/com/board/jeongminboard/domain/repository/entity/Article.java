@@ -1,4 +1,4 @@
-package com.board.jeongminboard.domain;
+package com.board.jeongminboard.domain.repository.entity;
 
 import lombok.Getter;
 import lombok.Setter;

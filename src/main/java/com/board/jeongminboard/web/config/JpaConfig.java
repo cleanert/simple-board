@@ -1,4 +1,4 @@
-package com.board.jeongminboard.config;
+package com.board.jeongminboard.web.config;
 
 
 import org.springframework.context.annotation.Bean;

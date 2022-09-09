@@ -1,8 +1,9 @@
 package com.board.jeongminboard.repository;
 
-import com.board.jeongminboard.config.JpaConfig;
-import com.board.jeongminboard.domain.Article;
-import org.assertj.core.api.Assertions;
+import com.board.jeongminboard.web.config.JpaConfig;
+import com.board.jeongminboard.domain.repository.entity.Article;
+import com.board.jeongminboard.domain.repository.ArticleCommentRepository;
+import com.board.jeongminboard.domain.repository.ArticleRepository;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
